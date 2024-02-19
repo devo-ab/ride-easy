@@ -36,7 +36,14 @@ function forA1 (){
     const updatedSelected = selected + 1;
     selectedSeat.innerText = updatedSelected;
 
-    
+    // seat price
+    const totalPrice = document.getElementById('total-price');
+    const totalPriceText = totalPrice.innerText;
+    const total = parseInt(totalPriceText);
+    const updatedPrice = total + 550;
+    totalPrice.innerText = updatedPrice;
+    const grandTotal = document.getElementById('grand-total');
+    grandTotal.innerText = updatedPrice;
 }
 
 function forA2 (){
@@ -58,6 +65,15 @@ function forA2 (){
     const selected = parseInt(selectedSeatText);
     const updatedSelected = selected + 1;
     selectedSeat.innerText = updatedSelected;
+
+    // seat price
+    const totalPrice = document.getElementById('total-price');
+    const totalPriceText = totalPrice.innerText;
+    const total = parseInt(totalPriceText);
+    const updatedPrice = total + 550;
+    totalPrice.innerText = updatedPrice;
+    const grandTotal = document.getElementById('grand-total');
+    grandTotal.innerText = updatedPrice;
 }
 
 function forA3 (){
@@ -79,6 +95,15 @@ function forA3 (){
     const selected = parseInt(selectedSeatText);
     const updatedSelected = selected + 1;
     selectedSeat.innerText = updatedSelected;
+
+    // seat price
+    const totalPrice = document.getElementById('total-price');
+    const totalPriceText = totalPrice.innerText;
+    const total = parseInt(totalPriceText);
+    const updatedPrice = total + 550;
+    totalPrice.innerText = updatedPrice;
+    const grandTotal = document.getElementById('grand-total');
+    grandTotal.innerText = updatedPrice;
 }
 
 function forA4 (){
@@ -100,6 +125,15 @@ function forA4 (){
     const selected = parseInt(selectedSeatText);
     const updatedSelected = selected + 1;
     selectedSeat.innerText = updatedSelected;
+
+    // seat price
+    const totalPrice = document.getElementById('total-price');
+    const totalPriceText = totalPrice.innerText;
+    const total = parseInt(totalPriceText);
+    const updatedPrice = total + 550;
+    totalPrice.innerText = updatedPrice;
+    const grandTotal = document.getElementById('grand-total');
+    grandTotal.innerText = updatedPrice;
 }
 
 function forB1 (){
@@ -121,6 +155,15 @@ function forB1 (){
     const selected = parseInt(selectedSeatText);
     const updatedSelected = selected + 1;
     selectedSeat.innerText = updatedSelected;
+
+    // seat price
+    const totalPrice = document.getElementById('total-price');
+    const totalPriceText = totalPrice.innerText;
+    const total = parseInt(totalPriceText);
+    const updatedPrice = total + 550;
+    totalPrice.innerText = updatedPrice;
+    const grandTotal = document.getElementById('grand-total');
+    grandTotal.innerText = updatedPrice;
 }
 
 function forB2 (){
@@ -142,6 +185,15 @@ function forB2 (){
     const selected = parseInt(selectedSeatText);
     const updatedSelected = selected + 1;
     selectedSeat.innerText = updatedSelected;
+
+    // seat price
+    const totalPrice = document.getElementById('total-price');
+    const totalPriceText = totalPrice.innerText;
+    const total = parseInt(totalPriceText);
+    const updatedPrice = total + 550;
+    totalPrice.innerText = updatedPrice;
+    const grandTotal = document.getElementById('grand-total');
+    grandTotal.innerText = updatedPrice;
 }
 
 function forB3 (){
@@ -163,6 +215,15 @@ function forB3 (){
     const selected = parseInt(selectedSeatText);
     const updatedSelected = selected + 1;
     selectedSeat.innerText = updatedSelected;
+
+    // seat price
+    const totalPrice = document.getElementById('total-price');
+    const totalPriceText = totalPrice.innerText;
+    const total = parseInt(totalPriceText);
+    const updatedPrice = total + 550;
+    totalPrice.innerText = updatedPrice;
+    const grandTotal = document.getElementById('grand-total');
+    grandTotal.innerText = updatedPrice;
 }
 
 function forB4 (){
@@ -184,4 +245,13 @@ function forB4 (){
     const selected = parseInt(selectedSeatText);
     const updatedSelected = selected + 1;
     selectedSeat.innerText = updatedSelected;
+
+    // seat price
+    const totalPrice = document.getElementById('total-price');
+    const totalPriceText = totalPrice.innerText;
+    const total = parseInt(totalPriceText);
+    const updatedPrice = total + 550;
+    totalPrice.innerText = updatedPrice;
+    const grandTotal = document.getElementById('grand-total');
+    grandTotal.innerText = updatedPrice;
 }
