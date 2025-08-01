@@ -2,7 +2,7 @@
 
 **Ride Easy** is a responsive single-page website where users can buy bus tickets with real-time seat selection, coupon-based discounts, and a checkout form validation system. it create with *HTML*, *CSS*, *TailwindCSS*, *DaisyUI*, *JavaScript*
 
-[🔗 Live Demo](https://devo-ab.github.io/ph-tube)
+[🔗 Live Demo](https://devo-ab.github.io/ride-easy)
 
 ---
 
